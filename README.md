@@ -14,9 +14,7 @@ It uncovers patterns in revenue growth, customer retention, and product performa
 ## 🟤 Business Problem  
 
 Shopify stores often struggle to track and interpret key performance trends across multiple datasets such as transactions, customers, and products.  
-Without an integrated view, it’s challenging to identify profitable regions, loyal customers, or underperforming categories.  
-
-This dashboard bridges that gap by providing a centralized analytical view of sales, customer behavior, and payment performance through interactive visuals and KPIs.
+Without an integrated view, it’s challenging to identify profitable regions, loyal customers, or underperforming categories . This dashboard bridges that gap by providing a centralized analytical view of sales, customer behavior, and payment performance through interactive visuals and KPIs.
 
 ---
 
