@@ -34,7 +34,7 @@ Without an integrated view, it’s challenging to identify profitable regions, l
 - Regional Overview (Map & Bar Charts): Visualizes sales performance by province and city, with tooltips displaying Net Sales, Quantity, and Repeat Customers.  
 - Sales Trend Over Time: Tracks daily and hourly sales patterns to identify peak activity periods.  
 - Customer Purchase Insights: Compares single-order vs. repeat customers to evaluate loyalty.  
-  Payment Method Analysis: Highlights most and least used payment gateways.  
+- Payment Method Analysis: Highlights most and least used payment gateways.  
 - Product Type Overview: Identifies top-performing categories and customer engagement by product type.  
 - Drill-Through Page: Allows users to explore detailed transaction-level data for deeper insights.  
 
