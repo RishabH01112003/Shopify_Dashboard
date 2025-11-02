@@ -4,21 +4,21 @@ A dynamic and interactive Power BI dashboard built to analyze Shopify sales perf
 
 ---
 
-## 📝 Purpose  
+##  Purpose  
 
 The Shopify Sales Dashboard provides business leaders with a comprehensive view of key sales and customer metrics.  
 It uncovers patterns in revenue growth, customer retention, and product performance — helping stakeholders make informed, data-driven decisions to improve sales efficiency and customer engagement.
 
 ---
 
-## 🟤 Business Problem  
+##  Business Problem  
 
 Shopify stores often struggle to track and interpret key performance trends across multiple datasets such as transactions, customers, and products.  
 Without an integrated view, it’s challenging to identify profitable regions, loyal customers, or underperforming categories . This dashboard bridges that gap by providing a centralized analytical view of sales, customer behavior, and payment performance through interactive visuals and KPIs.
 
 ---
 
-## 📊 Key KPIs  
+##  Key KPIs  
 
 - Net Sales: Total revenue generated before tax.  
 - Total Quantity Sold: Cumulative number of items sold.  
@@ -29,7 +29,7 @@ Without an integrated view, it’s challenging to identify profitable regions, l
 
 ---
 
-## 📈 Dashboard Features  
+##  Dashboard Features  
 
 - Regional Overview (Map & Bar Charts): Visualizes sales performance by province and city, with tooltips displaying Net Sales, Quantity, and Repeat Customers.  
 - Sales Trend Over Time: Tracks daily and hourly sales patterns to identify peak activity periods.  
@@ -40,7 +40,7 @@ Without an integrated view, it’s challenging to identify profitable regions, l
 
 ---
 
-## 💡 Business Impact  
+##  Business Impact  
 
 This dashboard enables Shopify businesses to:  
 - Track overall sales health and regional performance.  
